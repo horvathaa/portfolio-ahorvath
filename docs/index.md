@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Amber Horvath"
+  text: "Your 6.104 Postdoctoral Honorary Instructor~~~"
+  tagline: "🐸"
   actions:
     - theme: brand
       text: Template Repository
-      link: "https://github.com/61040-fa24/vitepress-template"
+      link: "https://github.com/61040-fa25/vitepress-template"
     - theme: alt
       text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+      link: "https://61040-fa25.github.io/portfolio-ahorvath/"
 
 features:
   - title: Blogs
